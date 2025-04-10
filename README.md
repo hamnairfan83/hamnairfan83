@@ -11,7 +11,7 @@ I’m actively seeking **Data Analytics** and **Business Analysis** opportunitie
 📱 678-788-3523  
 
 ### Skills:
-- **Data Analytics**: SQL, Power BI, Tableau, Python 📊
+- **Data Analytics**: Excel, SQL, Power BI, Tableau 📊
 - **Process Automation**: Outlook, Power Automate ⚙️
 - **Business Analysis**: Reporting, Dashboard Design, Data Transformation 📈
 
