@@ -7,8 +7,7 @@ Currently, I'm an **Extern at Beats by Dre** 🎧 working on **Consumer Behavior
 I’m actively seeking **Data Analytics** and **Business Analysis** opportunities to apply my skills and help organizations make data-driven decisions 🔍.
 
 📧 [hamnairfan022@gmail.com](mailto:hamnairfan022@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/hamna-irfan/)  
-📱 678-788-3523  
+🔗 [LinkedIn](https://www.linkedin.com/in/hamna-irfan/)   
 
 ### Skills:
 - **Data Analytics**: Excel, SQL, Power BI, Tableau 📊
