@@ -1,9 +1,11 @@
-Hey there! 👋 I'm **Hamna Irfan**  
-**Data Analyst** | **Business Analysis Enthusiast** | **SQL, Power BI, Tableau, Python Expert**
+# Hey there! 👋 I'm **Hamna Irfan**  
+## **Data Analyst** | **Business Analysis Enthusiast** | **Excel, SQL, Power BI, Tableau**
 
 🚀 **About Me**  
 
-I’m **Hamna Irfan**, a **recent graduate** with a **Bachelor of Applied Science in Information Technology** from **Kennesaw State University** 🎓. I specialize in **data analytics**, **business analysis**, and **process automation**, with experience in **SQL**, **Power BI**, **Tableau**, **Excel**, and **Python**. I’m passionate about using data to drive **insights** 📊 and improve **business strategies** 🚀.
+- A **recent graduate** with a **Bachelor of Applied Science in Information Technology** from **Kennesaw State University** 🎓. 
+- Specialize in **data analytics**, **business analysis**, and **process automation**, with experience in **SQL**, **Power BI**, **Tableau**, **Excel**. 
+- Passionate about using data to drive **insights** 📊 and improve **business strategies** 🚀.
 
 Currently, I'm an **Extern at Beats by Dre** 🎧 working on **Consumer Behavior & Market Analysis** and an **Adjunct Instructor** 👩‍🏫 at **Chattahoochee Technical College**. I also have experience as an **IT Apprentice** 💻 at **Kennesaw State University**, where I optimized workflows and provided technical support.
 
