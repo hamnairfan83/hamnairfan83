@@ -1,4 +1,7 @@
-## About Me 👩‍💻
+Hey there! 👋 I'm **Hamna Irfan**  
+**Data Analyst** | **Business Analysis Enthusiast** | **SQL, Power BI, Tableau, Python Expert**
+
+🚀 **About Me**  
 
 I’m **Hamna Irfan**, a **recent graduate** with a **Bachelor of Applied Science in Information Technology** from **Kennesaw State University** 🎓. I specialize in **data analytics**, **business analysis**, and **process automation**, with experience in **SQL**, **Power BI**, **Tableau**, **Excel**, and **Python**. I’m passionate about using data to drive **insights** 📊 and improve **business strategies** 🚀.
 
